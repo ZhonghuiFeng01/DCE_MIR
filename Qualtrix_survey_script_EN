@@ -1,0 +1,217 @@
+## Block Intro
+Dear participant,
+
+Thank you for taking the time to answer this survey.
+
+Your participation will help inform policy discussions on the reduction of pesticide use in agriculture. The survey focuses on how people evaluate different possible public policies, such as taxes on pesticide use or a full ban.
+
+The questionnaire will take approximately 15 minutes. Your answers will be treated anonymously and confidentially. There are no right or wrong answers: we are interested in your personal opinion.
+
+Thank you.
+
+## Block Socio-economic questions
+
+Q2.1 How many people live in your household, including yourself?
+
+#Edit Multiple answer items
+
+1
+2
+3
+4
+5
+6
+7
+8 or more than 8
+
+Q2.2 What is your gender?
+
+#Edit Multiple answer items
+
+Female 
+Male
+
+Q2.3 What is your highest level of education?
+
+#Edit Multiple answer items
+
+No diploma or primary education
+Secondary education
+Bachelor’s degree
+Master’s degree
+Doctoral degree or higher
+Other
+
+Q2.4 What is your marital status?
+
+#Edit Multiple answer items
+
+Single
+Married
+Divorced
+Widowed
+
+Q2.5 Which category best describes the municipality where you live?
+
+#Edit Multiple answer items
+
+Urban
+Suburban
+Small town
+Rural
+
+Q2.6 What is your nationality status?
+
+#Edit Multiple answer items
+
+French by birth, including by reinstatement
+French by naturalisation, marriage, declaration, or option upon reaching adulthood
+Foreign national
+Stateless person
+
+Q2.7 Do you currently work or study in a field related to agriculture, food production, environmental sciences, or agronomy?
+
+#Edit Multiple answer items
+
+Yes, I work in one of these fields.
+Yes, I study in one of these fields.
+Yes, I both work and study in one of these fields.
+No, I work in another field.
+No, I study in another field.
+No, I do not currently work or study.
+
+## Block consumption
+Q3.1 How much does your household usually spend on food per week?
+Household weekly food expenditure, in euros
+
+#slider 
+0 until >=200 
+11 lables 
+show values 
+
+
+Q3.2 How often do you consume organic food?
+Almost everyday
+Once or several times per week
+One to three times per month
+Almost never
+
+Q3.3 How do you think restrictions on pesticide use would affect food prices?
+Restrictions on pesticide use would increase food prices.
+Restrictions on pesticide use would decrease food prices.
+Restrictions on pesticide use would not affect food prices.
+I do not know.
+
+Q3.4 Have you ever heard about the use of pesticides in agriculture?
+Yes
+No
+
+##Block info page
+
+You will now see 12 choice cards in total.
+
+In each card, three options will be presented. Each option corresponds to a possible policy scenario.
+
+The options differ according to:
+
+ The reduction in farmers’ pesticide use;
+ The increase in the price of your weekly shopping basket of food.
+
+Please choose the option you prefer in each situation.
+
+Please answer according to your own preferences and budget considerations.
+
+## Block Sample 1 - Status quo reference
+
+#S1_1
+
+<p>What is your preferred option for card 1?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_1.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 2?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_1.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 3?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_1.png" style="max-width:100%; height:auto;">
+
+#S1_2
+
+<p>What is your preferred option for card 4?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_1.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 5?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_1.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 6?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_1.png" style="max-width:100%; height:auto;">
+
+#S1_3
+
+<p>What is your preferred option for card 7?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_1.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 8?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_1.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 9?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_1.png" style="max-width:100%; height:auto;">
+
+#S1_4
+
+<p>What is your preferred option for card 10?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_1.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 11?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_1.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 12?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_1.png" style="max-width:100%; height:auto;">
+
+## Block Sample 2
+
+#S2_1
+
+<p>What is your preferred option for card 1?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_2.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 2?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_2.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 3?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_2.png" style="max-width:100%; height:auto;">
+
+S2_2
+
+<p>What is your preferred option for card 4?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_2.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 5?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_2.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 6?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_2.png" style="max-width:100%; height:auto;">
+
+
+
+
+
+
+
