@@ -1,6 +1,9 @@
 # DCE_MIR
 
-This repository contains materials for a discrete choice experiment (DCE) project on preferences for pesticide reduction policies.
+Author : Zhonghui Feng
+
+
+This repository contains materials for a discrete choice experiment (DCE) project on preferences for pesticide reduction policies.  
 
 The project studies how the reference scenario used in a choice experiment may affect respondents’ evaluation of radical environmental transition policies. 
 
@@ -100,8 +103,8 @@ R scripts for D-efficient design selection
 This repository is part of an ongoing research project. The current version is intended for pilot testing and supervisor review.
 The design and questionnaire may be updated as the project develops.
 
+## Reference 
+Martinet, V., David, M., Mermet-Bijon, V., & Crastes dit Sourd, R. (2025). Cost vector effects in
+forced-choice discrete choice experiments. Journal of Choice Modelling, 55.
 
-## Author
 
-Zhonghui Feng
-May 2026
