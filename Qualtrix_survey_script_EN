@@ -28,8 +28,10 @@ Q2.2 What is your gender?
 
 #Edit Multiple answer items
 
-Female 
 Male
+Female
+Non-binary / third gender
+Prefer not to say
 
 Q2.3 What is your highest level of education?
 
@@ -107,6 +109,12 @@ Yes
 No
 
 ##Block info page
+
+<p>Please read the following information carefully before continuing.</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/Info_Page_Pesticides_EN.png" style="max-width:100%; height:auto;">
+
+##Block instruction
 
 You will now see 12 choice cards in total.
 
@@ -209,8 +217,93 @@ S2_2
 <p>What is your preferred option for card 6?</p>
 <img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_2.png" style="max-width:100%; height:auto;">
 
+S2_3
+
+<p>What is your preferred option for card 7?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_2.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 8?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_2.png" style="max-width:100%; height:auto;">
 
 
+<p>What is your preferred option for card 9?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_2.png" style="max-width:100%; height:auto;">
+
+
+S2_4
+
+<p>What is your preferred option for card 10?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_2.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 11?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_2.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 12?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_2.png" style="max-width:100%; height:auto;">
+
+## Block Sample 3
+
+#S3_1
+
+<p>What is your preferred option for card 1?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_3.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 2?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_3.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 3?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_3.png" style="max-width:100%; height:auto;">
+
+#S3_2
+
+<p>What is your preferred option for card 4?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_3.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 5?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_3.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 6?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_3.png" style="max-width:100%; height:auto;">
+
+
+#S3_3
+
+<p>What is your preferred option for card 7?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_3.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 8?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_3.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 9?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_3.png" style="max-width:100%; height:auto;">
+
+#S3_4
+
+<p>What is your preferred option for card 10?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_3.png" style="max-width:100%; height:auto;">
+
+<p>What is your preferred option for card 11?</p>
+
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_3.png" style="max-width:100%; height:auto;">
+
+
+<p>What is your preferred option for card 12?</p>
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_3.png" style="max-width:100%; height:auto;">
 
 
 
