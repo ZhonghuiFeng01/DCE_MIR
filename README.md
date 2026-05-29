@@ -13,7 +13,9 @@ In particular, it compares different questionnaire versions in which pesticide r
 
 Environmental transitions often require policies that differ substantially from the current status quo. In agriculture, pesticide reduction involves trade-offs between environmental and health concerns, agricultural production constraints, and possible increases in food prices.
 
-This project uses a split-sample discrete choice experiment to examine whether respondents evaluate the same policy trade-offs differently depending on the reference scenario presented in the choice task.
+This project uses a split-sample discrete choice experiment to examine whether respondents evaluate the same policy trade-offs differently depending on the reference scenario presented in the choice task. 
+
+Here is the link to the questionnaire : https://qualtricsxmghsvmdzb7.qualtrics.com/jfe/form/SV_3rali6IcCbHXrhA
 
 The main research question is:
 
