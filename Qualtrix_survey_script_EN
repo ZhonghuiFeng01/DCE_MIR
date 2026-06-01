@@ -101,6 +101,13 @@ No
 
 <img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/instruction_choice_tasks.png" style="max-width:100%; height:auto;">
 
+Q11 Have you understood how to answer the choice tasks?
+Yes -> randomiser block S1-S3
+No -> Block Reminder -> Q11_re 
+                        Yes -> randomiser
+                        No -> end of survey
+
+
 
 ####Randomiser 
 
