@@ -112,19 +112,18 @@ No -> Block Reminder -> Q11_re
 ####Randomiser 
 
 ## pseudo-random order for each sample 
-Card 1
-Card 2
-Card 9
 Card 3
-Card 4
-Card 10
+Card 9
+Card 1
 Card 5
-Card 6
-Card 11
+Card 10
+Card 2
 Card 7
-Card 8
+Card 11
+Card 4
+Card 6
 Card 12
-
+Card 8
 
 ## Block Sample 1 - Status quo reference
 
@@ -132,72 +131,72 @@ Card 12
 
 <p>What is your preferred option for card 1?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_1.png" style="max-width:100%; height:auto;">
 
 #S1_2
 
 <p>What is your preferred option for card 2?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_1.png" style="max-width:100%; height:auto;">
 
 #S1_3
 
 <p>What is your preferred option for card 3?</p>
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_1.png" style="max-width:100%; height:auto;">
 
 #S1_4
 
 <p>What is your preferred option for card 4?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_1.png" style="max-width:100%; height:auto;">
 
 #S1_5
 
 <p>What is your preferred option for card 5?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_1.png" style="max-width:100%; height:auto;">
 
 #S1_6
 
 <p>What is your preferred option for card 6?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_1.png" style="max-width:100%; height:auto;">
 
 #S1_7
 
 <p>What is your preferred option for card 7?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_1.png" style="max-width:100%; height:auto;">
 
 #S1_8
 
 <p>What is your preferred option for card 8?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_1.png" style="max-width:100%; height:auto;">
 
 #S1_9
 
 <p>What is your preferred option for card 9?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_1.png" style="max-width:100%; height:auto;">
 
 #S1_10
 
 <p>What is your preferred option for card 10?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_1.png" style="max-width:100%; height:auto;">
 
 #S1_11
 
 <p>What is your preferred option for card 11?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_1.png" style="max-width:100%; height:auto;">
 
 #S1_12
 
 <p>What is your preferred option for card 12?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_1.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_1.png" style="max-width:100%; height:auto;">
 
 ## Block Sample 2
 
@@ -205,73 +204,73 @@ Card 12
 
 <p>What is your preferred option for card 1?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_2.png" style="max-width:100%; height:auto;">
 
 #S2_2
 
 <p>What is your preferred option for card 2?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_2.png" style="max-width:100%; height:auto;">
 
 #S2_3
 
 <p>What is your preferred option for card 3?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_2.png" style="max-width:100%; height:auto;">
 
 S2_4
 
 <p>What is your preferred option for card 4?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_2.png" style="max-width:100%; height:auto;">
 
 #S2_5
 
 <p>What is your preferred option for card 5?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_2.png" style="max-width:100%; height:auto;">
 
 #S2_6
 
 <p>What is your preferred option for card 6?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_2.png" style="max-width:100%; height:auto;">
 
 S2_7
 
 <p>What is your preferred option for card 7?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_2.png" style="max-width:100%; height:auto;">
 
 #S2_8
 
 <p>What is your preferred option for card 8?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_2.png" style="max-width:100%; height:auto;">
 
 #S2_9
 
 <p>What is your preferred option for card 9?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_2.png" style="max-width:100%; height:auto;">
 
 #S2_10
 
 <p>What is your preferred option for card 10?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_2.png" style="max-width:100%; height:auto;">
 
 #S2_11
 
 <p>What is your preferred option for card 11?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_2.png" style="max-width:100%; height:auto;">
 
 #S2_12
 
 <p>What is your preferred option for card 12?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_2.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_2.png" style="max-width:100%; height:auto;">
 
 ## Block Sample 3
 
@@ -279,73 +278,73 @@ S2_7
 
 <p>What is your preferred option for card 1?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_3.png" style="max-width:100%; height:auto;">
 
 #S3_2
 
 <p>What is your preferred option for card 2?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_3.png" style="max-width:100%; height:auto;">
 
 #S3_3
 
 <p>What is your preferred option for card 3?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/9_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/1_3.png" style="max-width:100%; height:auto;">
 
 #S3_4
 
 <p>What is your preferred option for card 4?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/3_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_3.png" style="max-width:100%; height:auto;">
 
 #S3_5
 
 <p>What is your preferred option for card 5?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_3.png" style="max-width:100%; height:auto;">
 
 #S3_6
 
 <p>What is your preferred option for card 6?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/10_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/2_3.png" style="max-width:100%; height:auto;">
 
 #S3_7
 
 <p>What is your preferred option for card 7?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/5_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_3.png" style="max-width:100%; height:auto;">
 
 #S3_8
 
 <p>What is your preferred option for card 8?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_3.png" style="max-width:100%; height:auto;">
 
 #S3_9
 
 <p>What is your preferred option for card 9?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/11_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/4_3.png" style="max-width:100%; height:auto;">
 
 #S3_10
 
 <p>What is your preferred option for card 10?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/7_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/6_3.png" style="max-width:100%; height:auto;">
 
 #S3_11
 
 <p>What is your preferred option for card 11?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_3.png" style="max-width:100%; height:auto;">
 
 #S3_12
 
 <p>What is your preferred option for card 12?</p>
 
-<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/12_3.png" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/ZhonghuiFeng01/DCE_MIR/main/8_3.png" style="max-width:100%; height:auto;">
 
 
 
